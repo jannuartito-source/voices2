@@ -10,6 +10,40 @@ Repo ini berisi suara siap pakai yang muncul di tab **TTS**, **Ekspresi**, dan
 > Tidak ada nilai rahasia di sini — kode gateway dan notebook ada di repo terpisah
 > yang tetap Private.
 
+
+## Isi saat ini
+
+15 suara sudah terdaftar:
+
+| Nama | Bahasa | Gender | Transkrip |
+|---|---|---|---|
+| Agung | Indonesia | Pria | tanpa (dibaca ASR) |
+| Alek | Indonesia | Pria | tanpa (dibaca ASR) |
+| Dono | Indonesia | Pria | tanpa (dibaca ASR) |
+| Jono | Indonesia | Pria | tanpa (dibaca ASR) |
+| Siti | Indonesia | Wanita | ada |
+| English Female | Inggris | Wanita | ada |
+| English Female 2 | Inggris | Wanita | ada |
+| Anime Girl | Inggris | Wanita | ada |
+| Game Announcer | Inggris | Pria | ada |
+| Arabic Female | Arab | Wanita | ada |
+| French Female | Prancis | Wanita | ada |
+| German Male | Jerman | Pria | ada |
+| Japanese Male | Jepang | Pria | ada |
+| Korean Female | Korea | Wanita | ada |
+| Spanish Male | Spanyol | Pria | ada |
+
+Empat suara Indonesia (Agung, Alek, Dono, Jono) sengaja dibiarkan **tanpa transkrip**
+karena file `.txt` aslinya berisi naskah penuh, sedangkan audionya hanya berisi 35
+detik pertama. Transkrip yang tidak cocok justru merusak hasil kloning, jadi lebih
+aman dibiarkan kosong — model punya ASR bawaan yang akan membaca sendiri audionya.
+
+Kalau Anda mau menambahkan transkripnya, dengarkan audionya sampai habis, salin
+persis kalimat yang benar-benar terucap, lalu tambahkan kolom `"transcript"` pada
+blok suara itu di `voices.json`.
+
+---
+
 ## Cara menambah suara
 
 **1. Siapkan file audionya**

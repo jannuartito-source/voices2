@@ -1,20 +1,156 @@
 {
   "voices": [
     {
-      "id": "contoh_andi",
-      "name": "Andi — Pria Hangat",
+      "id": "agung",
+      "name": "Agung",
       "language": "Indonesia",
       "gender": "Pria",
-      "audio": "contoh_andi.wav",
-      "transcript": "Halo, perkenalkan nama saya Andi. Senang bisa berbicara dengan Anda hari ini."
+      "audio": "Indonesian_Agung.wav",
+      "tags": [
+        "narator",
+        "promosi"
+      ]
     },
     {
-      "id": "contoh_sinta",
-      "name": "Sinta — Wanita Ceria",
+      "id": "alek",
+      "name": "Alek",
+      "language": "Indonesia",
+      "gender": "Pria",
+      "audio": "Indonesian_Alek.mp3",
+      "tags": [
+        "narator",
+        "bercerita"
+      ]
+    },
+    {
+      "id": "dono",
+      "name": "Dono",
+      "language": "Indonesia",
+      "gender": "Pria",
+      "audio": "Indonesian_Dono.wav",
+      "tags": [
+        "narator",
+        "formal"
+      ]
+    },
+    {
+      "id": "jono",
+      "name": "Jono",
+      "language": "Indonesia",
+      "gender": "Pria",
+      "audio": "Indonesian_Jono.wav",
+      "tags": [
+        "narator",
+        "laporan"
+      ]
+    },
+    {
+      "id": "siti",
+      "name": "Siti",
       "language": "Indonesia",
       "gender": "Wanita",
-      "audio": "contoh_sinta.wav",
-      "transcript": "Hai semuanya, aku Sinta. Semoga harimu menyenangkan ya."
+      "audio": "Indonesian_Siti.wav",
+      "tags": [
+        "narator",
+        "hangat"
+      ],
+      "transcript": "Belajar tak hanya di dalam kelas, tapi juga melalui pengalaman yang bermakna. Festival Karakter Pelajar bersama Universitas STEKOM menghadirkan pelatihan bahasa isyarat sebagai langkah membangun kepedulian dan komunikasi yang inklusif. Perjalanan berlanjut menikmati keindahan Lubang Sewu, belajar mencintai alam dan mempererat kebersamaan. Dan ditutup dengan pelatihan kebekerjaan bagi siswa-siswi SLBN Temanggung, membekali mereka dengan keterampilan untuk menatap masa depan yang lebih percaya diri. Festival Karakter Pelajar, bertumbuh bersama, menginspirasi sesama."
+    },
+    {
+      "id": "en_female",
+      "name": "English Female",
+      "language": "Inggris",
+      "gender": "Wanita",
+      "audio": "English_Female.wav",
+      "tags": [
+        "narator",
+        "cerita"
+      ],
+      "transcript": "In the ancient land of Eldoria, where the skies were painted with shades of mystic hues and the forests whispered secrets of old, there existed a dragon named Zephyros. Unlike the fearsome tales of dragons that plagued human hearts with terror, Zephyros was a creature of wonder and wisdom, revered by all who knew of his existence."
+    },
+    {
+      "id": "en_female2",
+      "name": "English Female 2",
+      "language": "Inggris",
+      "gender": "Wanita",
+      "audio": "English_Female2.wav",
+      "tags": [
+        "berita",
+        "reportase"
+      ],
+      "transcript": "At the Sahara restaurant in Dearborn, Michigan, for Arabic language TV news channels are beaming in images of the war in Gaza, and the aftermath of the recent pager and radio devices explosions in Lebanon, The smell of Caramum infused coffee and Shawarma and falafel and hum of friends catching up, stand in stark contrast to the images on the television screens, Dearborn is the first Arab majority city in the U. and it has served as a key center for the uncommitted movement that is opposed to the Biden administration. Poy toward the Middle East, because they are in Michigan, a key Midwestern swing state that Joe Biden won by fewer than three points in 2020 Dearborn voters, like those who frequentequent the Sahara restaurant, could decide Kamala Harris's political future. Sam Hamoutd, whose family has run the Sahara restaurant in Dearborn for the past 30 years, said that taxes and inflation have negatively affected his business, but it's not what is motivating his vote. He is currently an undecided voter."
+    },
+    {
+      "id": "en_anime_girl",
+      "name": "Anime Girl",
+      "language": "Inggris",
+      "gender": "Wanita",
+      "audio": "EN_Female_Anime_Girl.mp3",
+      "tags": [
+        "ceria",
+        "karakter"
+      ],
+      "transcript": "Hey! Ahaha! Ha-ha! I'm so happy to see you! Ahaha! I just got this new swimsuit. What do you think? Hee-hee! Let's have some fun! Ooh, ooh. We're playing beach volleyball. Wanna join? Aaaaa! Oh no, I'm all wet. Uhuhu! Don't just stand there. Can you give me a hand? Put some sunscreen on my back, please? What are you staring at? He-he! Oh, I have so much fun when we're together."
+    },
+    {
+      "id": "en_announcer",
+      "name": "Game Announcer",
+      "language": "Inggris",
+      "gender": "Pria",
+      "audio": "EN_Male_Mortal_Kombat.mp3",
+      "tags": [
+        "tegas",
+        "karakter"
+      ],
+      "transcript": "Choose your destiny. FINISH HIM! Fatality! Round one. Fight!"
+    },
+    {
+      "id": "ar_female",
+      "name": "Arabic Female",
+      "language": "Arab",
+      "gender": "Wanita",
+      "audio": "Arabic_Female.wav",
+      "transcript": "يبدو الأمر مثيراً للاهتمام هذه أخبار جيدة للمنشئين والمطورين"
+    },
+    {
+      "id": "fr_female",
+      "name": "French Female",
+      "language": "Prancis",
+      "gender": "Wanita",
+      "audio": "French_Female.wav",
+      "transcript": "Non seulement cela, mais leur équipe a également publié le code source sur GitHub."
+    },
+    {
+      "id": "de_male",
+      "name": "German Male",
+      "language": "Jerman",
+      "gender": "Pria",
+      "audio": "German_Male.wav",
+      "transcript": "Ich habe gehört, dass es auch eine API geöffnet hat und dass es schnell in jedes Produkt integriert werden kann."
+    },
+    {
+      "id": "ja_male",
+      "name": "Japanese Male",
+      "language": "Jepang",
+      "gender": "Pria",
+      "audio": "Japanese_Male.wav",
+      "transcript": "えーと、15秒の音声をアップロードすれば、Face Audioでほぼ同じ音声をクローンできるんだ。ただ、そこには直接使える多くの音声もあるから、アップロードしなくても大丈夫なんだ。"
+    },
+    {
+      "id": "ko_female",
+      "name": "Korean Female",
+      "language": "Korea",
+      "gender": "Wanita",
+      "audio": "Korean_Female.wav",
+      "transcript": "사용 용도가 많아요. 예를 들어 게임 더빙, 편집 창작, 인공지능 고객 서비스, 가상 동반자, 개인 어시스턴트 등 다양한 분야에서 활용할 수 있어요. 간단히 말해서 소리와 관련된 모든 것의 피쉬 오디오를 사용할 수 있어요."
+    },
+    {
+      "id": "es_male",
+      "name": "Spanish Male",
+      "language": "Spanyol",
+      "gender": "Pria",
+      "audio": "Spanish_Male.wav",
+      "transcript": "Ya no puedo esperar para usarlo en la edición de vídeos. Vamos."
     }
   ]
 }
