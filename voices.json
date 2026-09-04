@@ -1,0 +1,20 @@
+{
+  "voices": [
+    {
+      "id": "contoh_andi",
+      "name": "Andi — Pria Hangat",
+      "language": "Indonesia",
+      "gender": "Pria",
+      "audio": "contoh_andi.wav",
+      "transcript": "Halo, perkenalkan nama saya Andi. Senang bisa berbicara dengan Anda hari ini."
+    },
+    {
+      "id": "contoh_sinta",
+      "name": "Sinta — Wanita Ceria",
+      "language": "Indonesia",
+      "gender": "Wanita",
+      "audio": "contoh_sinta.wav",
+      "transcript": "Hai semuanya, aku Sinta. Semoga harimu menyenangkan ya."
+    }
+  ]
+}
